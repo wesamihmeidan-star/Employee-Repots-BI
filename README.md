@@ -1,0 +1,1 @@
+The Employee Reports Dashboard helps HR teams, managers, and decision-makers understand key workforce metrics by visualizing employee data from different perspectives, including centers, departments, gender, nationality, and salary trends over time.
